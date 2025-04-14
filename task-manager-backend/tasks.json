@@ -1,0 +1,47 @@
+[
+    {
+        "id": 6,
+        "user": "123@gmail.com",
+        "title": "API module",
+        "type": "Development",
+        "assigned_by": "Admin",
+        "assigned_to": "Joden",
+        "language": "JAVA",
+        "date": "2025-04-14",
+        "description": "This task is for developing a new feature",
+        "priority": "High",
+        "due_date": "2025-04-21",
+        "status": "In Progress",
+        "completed": true
+    },
+    {
+        "id": 7,
+        "user": "123@gmail.com",
+        "title": "MAP API",
+        "type": "Development",
+        "assigned_by": "Agent",
+        "assigned_to": "Rinky",
+        "language": "PHP",
+        "date": "2025-04-14",
+        "description": "This task is for developing a new feature",
+        "priority": "LOw",
+        "due_date": "2025-04-21",
+        "status": "completed",
+        "completed": true
+    },
+    {
+        "id": 9,
+        "user": "rinkypal12@gmail.com",
+        "title": "Task Managment System",
+        "type": "Development",
+        "assigned_by": "Admin",
+        "assigned_to": "Rinky Pal",
+        "language": "Python",
+        "date": "2025-04-14",
+        "description": "This task is for developing a new feature",
+        "priority": "Medium",
+        "due_date": "2025-04-21",
+        "status": "In Progress",
+        "completed": true
+    }
+]

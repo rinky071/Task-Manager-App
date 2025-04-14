@@ -1,0 +1,38 @@
+[
+    {
+        "email": "test@example.com",
+        "password": "123456"
+    },
+    {
+        "email": "rinky@example.com",
+        "password": "123456"
+    },
+    {
+        "email": "omkar@example.com",
+        "password": "123456"
+    },
+    {
+        "email": "pal@example.com",
+        "password": "123456"
+    },
+    {
+        "email": "sandeep@example.com",
+        "password": "123456"
+    },
+    {
+        "email": "sandeep45@example.com",
+        "password": "123456"
+    },
+    {
+        "email": "rinky34@cell24.in",
+        "password": "1234"
+    },
+    {
+        "email": "omkarpal@gmail.com",
+        "password": "1234"
+    },
+    {
+        "email": "rinky345@cell24.in",
+        "password": "1234"
+    }
+]
